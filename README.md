@@ -1,0 +1,2 @@
+# GitLab_CICD_Pipeline_using_Terraform
+Integrates GitLab and Terraform for automated infrastructure deployment
